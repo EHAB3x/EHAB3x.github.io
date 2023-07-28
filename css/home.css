@@ -556,11 +556,11 @@ footer span{
         height: 50vh;
     }
     .skills .division .skill{
-        width: 140px;
-        height: 140px;
+        width: 70px;
+        height: 70px;
     }
     .skills .division .skill svg{
-        font-size: 15px;
+        font-size: 20px;
         margin-bottom: 4px !important;
     }
     .skills .division .skill span{
@@ -607,16 +607,12 @@ footer span{
     .skills{
         height: 50vh;
     }
-    .skills .division .skill{
-        width: 70px;
-        height: 70px;
-    }
     .skills .division .skill svg{
         font-size: 15px;
         margin-bottom: 4px !important;
     }
     .skills .division .skill span{
-        font-size: 10px;
+        font-size: 20px;
     }
     .projects {
         margin: 60px 0 0 0;
